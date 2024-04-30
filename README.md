@@ -5,7 +5,7 @@
 <head>
 <title>AMAR KORA HTML</title>
 </head>
-<body text="green">
+<body <body background="https://i.ibb.co/xJVJtbX/Cosmic-vacuum-cleaner-Spiral-Galaxy-M83-by-badbugs-Cosmic-vacuum-cleaner-Spiral-Galaxy-M83-an-art-pr.jpg">>
 <h1 align = "center"><b>MD MEHEDI HASAN</b></h1><br>
 <h2><i>Studying At Cumilla City College</i></h2><br>
 <p><u>Science</u></p><br>
