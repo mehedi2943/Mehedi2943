@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<! DOCTYPE html>
+
 <html>
 <head>
 <title>AMAR KORA HTML</title>
@@ -24,5 +24,4 @@
 
 <img src="https://i.ibb.co/DtPbZsd/Hi-Gorib-20240402-170036-i-Phone-click-by-Expert-Mistry.jpg" alt="Hi-Gorib-20240402-170036-i-Phone-click-by-Expert-Mistry" height=512 width=700><br>
 
-</body>
-</html>
+
